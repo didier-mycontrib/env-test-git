@@ -1,0 +1,3 @@
+REM construira p1.git
+git clone --bare file:///d:/tp/tmp-test-git/original/p1
+pause

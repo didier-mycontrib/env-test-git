@@ -1,0 +1,3 @@
+pour effectuer une mise à jour complète (sur le serveur git):
+1) commit "all" en mode "local"
+2) push
